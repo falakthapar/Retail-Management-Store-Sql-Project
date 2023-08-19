@@ -11,3 +11,5 @@ In this project, I have used MySql workbench to execute my queries. Also, I have
 * Market Campaign Analysis Queries in txt and SQL format - It includes all the queries which I have used in the project to get insights out of the data
 
 * Retail Management System Project Document - whole project with the description
+
+### [Google Drive Link for Complete Project.](https://drive.google.com/drive/folders/1wqrQkb5ozc3r22w1i5SyQpZ4oC5dlts6?usp=sharing)
