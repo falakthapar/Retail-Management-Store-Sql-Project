@@ -1,4 +1,4 @@
-# Marketing-Campaign-Analysis-Sql-Project
+# Retail-Management-Store-Sql-Project
 In this project, I have considered a fictional retail supermarket “K-mart” situated in different cities across India. This supermarket is a fast growing supermarket due to their services and variety of items they provide under a single roof.
 
 I have analysed the Database to get different insights which I have mentioned in the google doc file. 
